@@ -129,7 +129,7 @@ padding-top: 30px;
  } */
 
  .link-list{
-     list-style: none;
+     list-style:circle;
      padding: 0;
  }
  .link-list li{
